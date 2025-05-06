@@ -1,0 +1,57 @@
+h1
+{
+text-align:center;
+color:red;
+}
+.tribute-title{
+color:black;
+background-color:blue;
+text-align:center;
+}
+p
+{
+color:black;
+font-size:18px;
+text-align:center;
+}
+.tribute-para{
+color:black;
+text-align:left
+}
+button
+{
+background-color:blue;
+color:white;
+padding:10px, 20px;
+font-size:16px;
+border:none;
+border-radius:5px;
+cursor:pointer;
+display:block;
+margin:30px auto;
+align:center;
+}
+button:hover
+{
+background-color:#005ce6;
+}
+img
+{
+display:block;
+margin:20px auto;
+max-width:300px;
+border-radius:10px;
+align:center;
+}
+h2
+{
+color:black;
+margin-top:30px;
+text-align:left;
+}
+footer{
+margin-top:auto;
+background-color:lightgray;
+text-align:center;
+padding:1rem 0;
+}
